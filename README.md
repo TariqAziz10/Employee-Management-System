@@ -6,22 +6,22 @@
 
 **Features:**
 
-  -> Add Employee: Add new employee records through a simple form.
+  -> Add Employee : Add new employee records through a simple form.
   
-  -> View Employee: Display detailed information for each employee.
+  -> View Employee : Display detailed information for each employee.
   
-  -> Update Employee: Edit employee details directly from the application.
+  -> Update Employee : Edit employee details directly from the application.
   
-  -> Delete Employee: Remove employee records with ease.
+  -> Delete Employee : Remove employee records with ease.
   
-  -> Persistent Data: All data is stored in the browser's local storage, ensuring persistence across sessions.
+  -> Persistent Data : All data is stored in the browser's local storage, ensuring persistence across sessions.
   
-  -> Search Functionality: Quickly search and filter employees by criteria.
+  -> Search Functionality : Quickly search and filter employees by criteria.
  
 **Technology Stack:**
 
-  -> Frontend: React.js, HTML, CSS, JavaScript
+  -> Frontend : React.js, HTML, CSS, JavaScript
   
-  -> State Management: React State
+  -> State Management : React State
   
-  -> Data Storage: Local Storage
+  -> Data Storage : Local Storage
