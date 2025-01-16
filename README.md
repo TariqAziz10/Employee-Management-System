@@ -17,10 +17,14 @@
   -> Persistent Data : All data is stored in the browser's local storage, ensuring persistence across sessions.
   
   -> Search Functionality : Quickly search and filter employees by criteria.
+
+  -> Responsive Design : Fully responsive UI built with Tailwind CSS
  
 **Technology Stack:**
 
   -> Frontend : React.js, HTML, CSS, JavaScript
+
+  -> Styling : Tailwind CSS
   
   -> State Management : React State
   
